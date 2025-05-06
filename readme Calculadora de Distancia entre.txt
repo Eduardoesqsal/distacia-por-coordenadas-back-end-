@@ -104,8 +104,6 @@ Dijiste:
 solo para copiar y pegar que sea paso a paso
 
 
-ChatGPT dijo:
-¡Claro! Aquí tienes el contenido del README.md listo para copiar y pegar, con instrucciones claras y paso a paso para correr tu aplicación full stack React + Flask:
 
 markdown
 Copiar
@@ -204,4 +202,3 @@ Editar
 
 Solo reemplaza `https://github.com/tu-usuario/calculadora-distancia.git` por la URL de tu repositorio real (si lo subes a GitHub), y `TuNombre` al final por tu nombre si quieres.
 
-¿Quieres que te ayude a subir el proyecto a GitHub también?
