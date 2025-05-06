@@ -93,16 +93,6 @@ Editar
 - Guarda este archivo como `README.md` en la raíz del proyecto.
 - Si tu proyecto está en GitHub, este archivo se mostrará automáticamente en la portada del repositorio.
 
-¿Quieres que te ayude a subirlo a GitHub o necesitas un ejemplo visual de la carpeta?
-
-
-
-
-
-
-Dijiste:
-solo para copiar y pegar que sea paso a paso
-
 
 
 markdown
